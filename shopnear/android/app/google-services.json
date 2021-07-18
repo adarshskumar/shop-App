@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467280864429",
+    "project_id": "sign-in-86b54",
+    "storage_bucket": "sign-in-86b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467280864429:android:05153446773a72efb41224",
+        "android_client_info": {
+          "package_name": "com.example.shopnear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467280864429-28170tsio9fp51vf38bk0e1oimc52c8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wqxZg3n83m_cAN5IyRz7xF-nUlKhDS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467280864429-28170tsio9fp51vf38bk0e1oimc52c8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

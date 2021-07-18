@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bacb61c2-3263-456c-a0c8-77ffebbd0678" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shopnear/lib/components/rounded_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopnear/lib/components/rounded_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopnear/lib/screens/location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopnear/lib/screens/location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopnear/lib/screens/loginPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopnear/lib/screens/loginPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopnear/lib/screens/onboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopnear/lib/screens/onboard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopnear/lib/screens/succes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopnear/lib/screens/succes.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uJFz7WJqqUjmnz2Bpu1OYJ1v7A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bacb61c2-3263-456c-a0c8-77ffebbd0678" name="Default Changelist" comment="" />
+      <created>1624376044820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624376044820</updated>
+    </task>
+    <servers />
+  </component>
+</project>
