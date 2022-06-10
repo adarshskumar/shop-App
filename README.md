@@ -1,6 +1,4 @@
 # shop-App
-
-# NearBuy
 <h1>What is <i style="color: green;">ShopNear</i></h1>
 <p style="font-size: 25px;">Shop near is Multi Vendor online shopping platform exclusively Targetted for village shop owners and Uers</p>
 <p style="font-size: 25px;">The app have only single login and You can switch it into User aswell as Seller in a Single Tap</p>
